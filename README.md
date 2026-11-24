@@ -1,6 +1,11 @@
 # VLSI Testing
 
-Homework for **EE6250 VLSI Testing** (超大型積體電路測試) at National Tsing Hua University, Spring 2025. The course covers fault modeling, fault simulation, ATPG, design-for-test (scan), delay test, and built-in self-test.
+My homework for **EE6250 VLSI Testing** (超大型積體電路測試) at National Tsing Hua University (Spring 2025). The course covers fault modeling, fault simulation, ATPG, design-for-test (scan), delay test, and built-in self-test.
+
+- **Instructor:** Prof. Shi-Yu Huang (黃錫瑜)
+- **Author:** Yu-Shuo Chang (張育碩)
+
+## Homework at a glance
 
 | Folder | Topic | What's inside |
 |---|---|---|
@@ -25,7 +30,3 @@ Each folder has `report.pdf` with the full write-up and results. HW3 folders fol
 - Synopsys VCS
 
 Lecture slides, homework specs, past exams, and course-provided lab files are not included.
-
-## Author
-
-Yu-Shuo Chang (張育碩), Department of Electrical Engineering, NTHU
